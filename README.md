@@ -1,0 +1,1 @@
+![using a color picker](Homepage.gif)
